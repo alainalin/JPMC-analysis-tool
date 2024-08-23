@@ -1,1 +1,1 @@
-# JPMC-analysis-tool
+# JPMC Company Relationship Analysis Tool
