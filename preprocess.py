@@ -12,7 +12,8 @@ def getSymbols() -> list[str]:
     get companies and corresponding stock symbols in S&P500 
     '''
     company_data = pd.read_html('https://en.wikipedia.org/wiki/List_of_S%26P_500_companies#S%26P_500_component_stocks')[0]
-    stock_symbols = list(company_data.Symbol.values).append('SPY')
+    stock_symbols = list(company_data.Symbol.values)
+    stock_symbols.append('SPY')
     stock_symbols.sort()
     return stock_symbols
 
@@ -52,7 +53,7 @@ def downloadData(data_dir, start_date: str, end_date: str, cols: list[str], symb
             print('Error for symbol {}'.format(symbol))
             pass
     
-    print('\nSuccessfully downloaded {}/{} files'.format(success_downloads, len(stock_symbols)))
+    print('\nSuccessfully downloaded {}/{} files'.format(success_downloads, len(symbols)))
     return dataframes, failed_downloads
 
 def loadData(data_dir: str, symbols: list[str]) -> list[pd.DataFrame]:
