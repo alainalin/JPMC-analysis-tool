@@ -1,0 +1,294 @@
+,Symbol,Sector
+0,A,Healthcare
+1,AAPL,Technology
+2,ABBV,Healthcare
+3,ABNB,Consumer Cyclical
+4,ABT,Healthcare
+5,ACGL,Financial Services
+6,ACN,Technology
+7,ADBE,Technology
+8,ADI,Technology
+9,ADM,Consumer Defensive
+10,ADP,Technology
+11,ADSK,Technology
+12,AEE,Utilities
+13,AEP,Utilities
+14,AES,Utilities
+15,AFL,Financial Services
+16,AIG,Financial Services
+17,AIZ,Financial Services
+18,AJG,Financial Services
+19,AKAM,Technology
+20,ALB,Basic Materials
+21,ALGN,Healthcare
+22,ALL,Financial Services
+23,ALLE,Industrials
+24,AMAT,Technology
+25,AMCR,Consumer Cyclical
+26,AMD,Technology
+27,AME,Industrials
+28,AMGN,Healthcare
+29,AMP,Financial Services
+30,AMT,Real Estate
+31,AMZN,Consumer Cyclical
+32,ANET,Technology
+33,ANSS,Technology
+34,AON,Financial Services
+35,AOS,Industrials
+36,APA,Energy
+37,APD,Basic Materials
+38,APH,Technology
+39,APTV,Consumer Cyclical
+40,ARE,Real Estate
+41,ATO,Utilities
+42,AVB,Real Estate
+43,AVGO,Technology
+44,AVY,Consumer Cyclical
+45,AWK,Utilities
+46,AXON,Industrials
+47,AXP,Financial Services
+48,AZO,Consumer Cyclical
+49,BA,Industrials
+50,BAC,Financial Services
+51,BALL,Consumer Cyclical
+52,BAX,Healthcare
+53,BBY,Consumer Cyclical
+54,BDX,Healthcare
+55,BEN,Financial Services
+56,BG,Consumer Defensive
+57,BIIB,Healthcare
+58,BK,Financial Services
+59,BKNG,Consumer Cyclical
+60,BKR,Energy
+61,BLDR,Industrials
+62,BLK,Financial Services
+63,BMY,Healthcare
+64,BR,Technology
+65,BRO,Financial Services
+66,BSX,Healthcare
+67,BWA,Consumer Cyclical
+68,BX,Financial Services
+69,BXP,Real Estate
+70,C,Financial Services
+71,CAG,Consumer Defensive
+72,CAH,Healthcare
+73,CARR,Industrials
+74,CAT,Industrials
+75,CB,Financial Services
+76,CBOE,Financial Services
+77,CBRE,Real Estate
+78,CCI,Real Estate
+79,CCL,Consumer Cyclical
+80,CDNS,Technology
+81,CDW,Technology
+82,CE,Basic Materials
+83,CEG,Utilities
+84,CF,Basic Materials
+85,CFG,Financial Services
+86,CHD,Consumer Defensive
+87,CHRW,Industrials
+88,CHTR,Communication Services
+89,CI,Healthcare
+90,CINF,Financial Services
+91,CL,Consumer Defensive
+92,CLX,Consumer Defensive
+93,CMCSA,Communication Services
+94,CME,Financial Services
+95,CMG,Consumer Cyclical
+96,CMI,Industrials
+97,CMS,Utilities
+98,CNC,Healthcare
+99,CNP,Utilities
+100,COF,Financial Services
+101,COO,Healthcare
+102,COP,Energy
+103,COR,Healthcare
+104,COST,Consumer Defensive
+105,CPAY,Technology
+106,CPB,Consumer Defensive
+107,CPRT,Industrials
+108,CPT,Real Estate
+109,CRL,Healthcare
+110,CRM,Technology
+111,CRWD,Technology
+112,CSCO,Technology
+113,CSGP,Real Estate
+114,CSX,Industrials
+115,CTAS,Industrials
+116,CTLT,Healthcare
+117,CTRA,Energy
+118,CTSH,Technology
+119,CTVA,Basic Materials
+120,CVS,Healthcare
+121,CVX,Energy
+122,CZR,Consumer Cyclical
+123,D,Utilities
+124,DAL,Industrials
+125,DAY,Technology
+126,DD,Basic Materials
+127,DE,Industrials
+128,DECK,Consumer Cyclical
+129,DELL,Technology
+130,DFS,Financial Services
+131,DG,Consumer Defensive
+132,DGX,Healthcare
+133,DHI,Consumer Cyclical
+134,DHR,Healthcare
+135,DIS,Communication Services
+136,DLR,Real Estate
+137,DLTR,Consumer Defensive
+138,DOC,Real Estate
+139,DOV,Industrials
+140,DOW,Basic Materials
+141,DPZ,Consumer Cyclical
+142,DRI,Consumer Cyclical
+143,DTE,Utilities
+144,DUK,Utilities
+145,DVA,Healthcare
+146,DVN,Energy
+147,DXCM,Healthcare
+148,EA,Communication Services
+149,EBAY,Consumer Cyclical
+150,ECL,Basic Materials
+151,ED,Utilities
+152,EFX,Industrials
+153,EG,Financial Services
+154,EIX,Utilities
+155,EL,Consumer Defensive
+156,ELV,Healthcare
+157,EMN,Basic Materials
+158,EMR,Industrials
+159,ENPH,Technology
+160,EOG,Energy
+161,EPAM,Technology
+162,EQIX,Real Estate
+163,EQR,Real Estate
+164,EQT,Energy
+165,ERIE,Financial Services
+166,ES,Utilities
+167,ESS,Real Estate
+168,ETN,Industrials
+169,ETR,Utilities
+170,EVRG,Utilities
+171,EW,Healthcare
+172,EXC,Utilities
+173,EXPD,Industrials
+174,EXPE,Consumer Cyclical
+175,EXR,Real Estate
+176,F,Consumer Cyclical
+177,FANG,Energy
+178,FAST,Industrials
+179,FCX,Basic Materials
+180,FDS,Financial Services
+181,FDX,Industrials
+182,FE,Utilities
+183,FFIV,Technology
+184,FI,Technology
+185,FICO,Technology
+186,FIS,Technology
+187,FITB,Financial Services
+188,FMC,Basic Materials
+189,FOX,Communication Services
+190,FOXA,Communication Services
+191,FRT,Real Estate
+192,FSLR,Technology
+193,FTNT,Technology
+194,FTV,Technology
+195,GD,Industrials
+196,GDDY,Technology
+197,GE,Industrials
+198,GEHC,Healthcare
+199,GEN,Technology
+200,GEV,Utilities
+201,GILD,Healthcare
+202,GIS,Consumer Defensive
+203,GL,Financial Services
+204,GLW,Technology
+205,GM,Consumer Cyclical
+206,GNRC,Industrials
+207,GOOG,Communication Services
+208,GOOGL,Communication Services
+209,GPC,Consumer Cyclical
+210,GPN,Industrials
+211,GRMN,Technology
+212,GS,Financial Services
+213,GWW,Industrials
+214,HAL,Energy
+215,HAS,Consumer Cyclical
+216,HBAN,Financial Services
+217,HCA,Healthcare
+218,HD,Consumer Cyclical
+219,HES,Energy
+220,HIG,Financial Services
+221,HII,Industrials
+222,HLT,Consumer Cyclical
+223,HOLX,Healthcare
+224,HON,Industrials
+225,HPE,Technology
+226,HPQ,Technology
+227,HRL,Consumer Defensive
+228,HSIC,Healthcare
+229,HST,Real Estate
+230,HSY,Consumer Defensive
+231,HUBB,Industrials
+232,HUM,Healthcare
+233,HWM,Industrials
+234,IBM,Technology
+235,ICE,Financial Services
+236,IDXX,Healthcare
+237,IEX,Industrials
+238,IFF,Basic Materials
+239,INCY,Healthcare
+240,INTC,Technology
+241,INTU,Technology
+242,INVH,Real Estate
+243,IP,Consumer Cyclical
+244,IPG,Communication Services
+245,IQV,Healthcare
+246,IR,Industrials
+247,IRM,Real Estate
+248,ISRG,Healthcare
+249,IT,Technology
+250,ITW,Industrials
+251,IVZ,Financial Services
+252,J,Industrials
+253,JBHT,Industrials
+254,JBL,Technology
+255,JCI,Industrials
+256,JKHY,Technology
+257,JNJ,Healthcare
+258,JNPR,Technology
+259,JPM,Financial Services
+260,K,Consumer Defensive
+261,KDP,Consumer Defensive
+262,KEY,Financial Services
+263,KEYS,Technology
+264,KHC,Consumer Defensive
+265,KIM,Real Estate
+266,KKR,Financial Services
+267,KLAC,Technology
+268,KMB,Consumer Defensive
+269,KMI,Energy
+270,KMX,Consumer Cyclical
+271,KO,Consumer Defensive
+272,KR,Consumer Defensive
+273,KVUE,Consumer Defensive
+274,L,Financial Services
+275,LDOS,Technology
+276,LEN,Consumer Cyclical
+277,LH,Healthcare
+278,LHX,Industrials
+279,LIN,Basic Materials
+280,LKQ,Consumer Cyclical
+281,LLY,Healthcare
+282,LMT,Industrials
+283,LNT,Utilities
+284,LOW,Consumer Cyclical
+285,LRCX,Technology
+286,LULU,Consumer Cyclical
+287,LUV,Industrials
+288,LVS,Consumer Cyclical
+289,LW,Consumer Defensive
+290,LYB,Basic Materials
+291,LYV,Communication Services
+292,MA,Financial Services
