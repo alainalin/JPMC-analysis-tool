@@ -159,6 +159,12 @@ The Company Relationship Analysis Tool is an AI-driven project that leverages hi
 
 ---
 
+## License
+
+Apache License 2.0
+
+---
+
 ## Credits and Acknowledgments
 
 ### Team Members
